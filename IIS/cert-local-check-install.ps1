@@ -1,6 +1,6 @@
 #
 # Very old version of importing script
-# Outdated as hell
+# Outdated as hell, use only as an example
 #
 
 Import-Module RemoteDesktopServices
